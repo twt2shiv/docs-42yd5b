@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-11zb0t.hyperpago.com/sitemap.xml
